@@ -1,0 +1,41 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Under 18 years:
+HD02_VD02,Margin of Error; Under 18 years:
+HD01_VD03,Estimate; Under 18 years: - Has a computer:
+HD02_VD03,Margin of Error; Under 18 years: - Has a computer:
+HD01_VD04,Estimate; Under 18 years: - Has a computer: - With dial-up Internet subscription alone
+HD02_VD04,Margin of Error; Under 18 years: - Has a computer: - With dial-up Internet subscription alone
+HD01_VD05,Estimate; Under 18 years: - Has a computer: - With a broadband Internet subscription
+HD02_VD05,Margin of Error; Under 18 years: - Has a computer: - With a broadband Internet subscription
+HD01_VD06,Estimate; Under 18 years: - Has a computer: - Without an Internet subscription
+HD02_VD06,Margin of Error; Under 18 years: - Has a computer: - Without an Internet subscription
+HD01_VD07,Estimate; Under 18 years: - No computer
+HD02_VD07,Margin of Error; Under 18 years: - No computer
+HD01_VD08,Estimate; 18 to 64 years:
+HD02_VD08,Margin of Error; 18 to 64 years:
+HD01_VD09,Estimate; 18 to 64 years: - Has a computer:
+HD02_VD09,Margin of Error; 18 to 64 years: - Has a computer:
+HD01_VD10,Estimate; 18 to 64 years: - Has a computer: - With dial-up Internet subscription alone
+HD02_VD10,Margin of Error; 18 to 64 years: - Has a computer: - With dial-up Internet subscription alone
+HD01_VD11,Estimate; 18 to 64 years: - Has a computer: - With a broadband Internet subscription
+HD02_VD11,Margin of Error; 18 to 64 years: - Has a computer: - With a broadband Internet subscription
+HD01_VD12,Estimate; 18 to 64 years: - Has a computer: - Without an Internet subscription
+HD02_VD12,Margin of Error; 18 to 64 years: - Has a computer: - Without an Internet subscription
+HD01_VD13,Estimate; 18 to 64 years: - No computer
+HD02_VD13,Margin of Error; 18 to 64 years: - No computer
+HD01_VD14,Estimate; 65 years and over:
+HD02_VD14,Margin of Error; 65 years and over:
+HD01_VD15,Estimate; 65 years and over: - Has a computer:
+HD02_VD15,Margin of Error; 65 years and over: - Has a computer:
+HD01_VD16,Estimate; 65 years and over: - Has a computer: - With dial-up Internet subscription alone
+HD02_VD16,Margin of Error; 65 years and over: - Has a computer: - With dial-up Internet subscription alone
+HD01_VD17,Estimate; 65 years and over: - Has a computer: - With a broadband Internet subscription
+HD02_VD17,Margin of Error; 65 years and over: - Has a computer: - With a broadband Internet subscription
+HD01_VD18,Estimate; 65 years and over: - Has a computer: - Without an Internet subscription
+HD02_VD18,Margin of Error; 65 years and over: - Has a computer: - Without an Internet subscription
+HD01_VD19,Estimate; 65 years and over: - No computer
+HD02_VD19,Margin of Error; 65 years and over: - No computer
